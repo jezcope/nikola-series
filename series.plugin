@@ -1,0 +1,12 @@
+[Core]
+Name = series
+Module = series
+
+[Nikola]
+PluginCategory = SignalHandler
+
+[Documentation]
+Author = Jez Cope
+Version = 0.1
+Website = https://github.com/jezcope/plugin-series-nikola
+Description = Allow navigation between posts that are part of a series
